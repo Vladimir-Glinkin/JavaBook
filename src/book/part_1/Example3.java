@@ -13,5 +13,6 @@ public class Example3 {
         x=x/4;
         System.out.println("Значение переменной var после деления:" +var);
         System.out.println("Значение переменной x после деления: " + x);
+
     }
 }
